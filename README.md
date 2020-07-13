@@ -24,6 +24,3 @@ Here are some ideas to get you started:
   <a href="mailto:tatiana.emilia.morenno@gmail.com">
     <img align="left" alt="Tatiana Emília Moreno | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
-  <a href="https://open.spotify.com/user/12154828558">
-    <img align="left" alt="Tatiana Emília Moreno | Spotify" width="26px" src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-   square&logo=spotify&logoColor=white" alt="Spotify"/>
-  </a>
