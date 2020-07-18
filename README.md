@@ -1,4 +1,4 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 &lt;githubers&gt; </h2> 👋
+<h2> 𝐇𝐞𝐥𝐥𝐨 &lt;githubers&gt;! </h2> 👋 💻
 
 <!--
 **tatmorenno/tatmorenno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
