@@ -21,9 +21,9 @@ Here are some ideas to get you started:
  <details>
     <summary>Preview</summary>
 <br/>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   <img src="https://github.com/demartini/demartini/blob/master/code.gif" width="400px">
-<br/>  
+<br/>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   <a href="https://in.linkedin.com/in/tatmorenno">
     <img align="left" alt="Tatiana Emília Moreno | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
