@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   </a>
   <a href="mailto:tatiana.emilia.morenno@gmail.com">
     <img align="left" alt="Tatiana Emília Moreno | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a> <br/>
+  </a>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  <br/>
   </details>
