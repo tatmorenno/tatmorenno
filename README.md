@@ -11,16 +11,16 @@
   <img src="https://github.com/demartini/demartini/blob/master/code.gif" width="400px">
 <br/>
   <h3>Tatiana Moreno <img align='left' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
-  É ✨ <em>SUPER APAIXONADA</em> ✨ por aprender e ensinar.
+  É ✨ <em>SUPER APAIXONADA</em> ✨ por aprender e ensinar! 👩🏻‍💻
 <br/>
-Desde criança criava a sua realidade na mente.
+Desde criança criava a sua realidade na mente. <br/>
 Hoje, ela converte sua imaginação também em linhas de códigos.
 
-Atualmente estuda as seguintes tecnologias:
-- [HTML](https://www.w3schools.com/html/);
-- [CSS](https://www.w3.org/Style/CSS/Overview.en.html);
-- [JavaScript](https://www.javascript.com/);
-- [Kotlin](https://kotlinlang.org/);
+
+<h4>Atualmente participante dos Bootcamps:<h4>
+- [Full-Stack](https://www.igti.com.br/custom/bootcamp-desenvolvedor-full-stack/);
+- [Rocketseat — LaunchBase](https://rocketseat.com.br/launchbase);
+- [Front-end ReactJS](https://digitalinnovation.one/bootcamps/desenvolvedor-front-end-reactjs);
   </details>
   <a href="https://in.linkedin.com/in/tatmorenno">
     <img alt="Tatiana Emília Moreno | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
