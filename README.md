@@ -17,7 +17,7 @@ Desde criança criava a sua realidade na mente. <br/>
 Hoje, ela converte imaginação em linhas de códigos.
 
 
-<h4>Atualmente participante dos Bootcamps:<h4>
+<h4>Atualmente participante dos Bootcamps:</h4>
 - [Full-Stack](https://www.igti.com.br/custom/bootcamp-desenvolvedor-full-stack/);
 - [Rocketseat - LaunchBase](https://rocketseat.com.br/launchbase);
 - [Front-end ReactJS](https://digitalinnovation.one/bootcamps/desenvolvedor-front-end-reactjs);
