@@ -1,7 +1,8 @@
 <h2>
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   💻 𝐇𝐞𝐥𝐥𝐨 &lt;githubers&gt;!
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='50"'>
+
 </h2>
 
 <!--
@@ -28,3 +29,4 @@ Here are some ideas to get you started:
   <a href="mailto:tatiana.emilia.morenno@gmail.com">
     <img align="left" alt="Tatiana Emília Moreno | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
