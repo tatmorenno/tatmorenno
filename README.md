@@ -31,5 +31,5 @@ Atualmente estuda as seguintes tecnologias:
   <a href="mailto:tatiana.emilia.morenno@gmail.com">
     <img alt="Tatiana Emília Moreno | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+    <img align='left' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  <br/>
