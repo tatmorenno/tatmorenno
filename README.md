@@ -21,6 +21,7 @@ Atualmente estuda as seguintes tecnologias:
 - [CSS](https://www.w3.org/Style/CSS/Overview.en.html);
 - [JavaScript](https://www.javascript.com/);
 - [Kotlin](https://kotlinlang.org/);
+  </details>
 <br/>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   <a href="https://in.linkedin.com/in/tatmorenno">
@@ -33,4 +34,3 @@ Atualmente estuda as seguintes tecnologias:
     <img alt="Tatiana Emília Moreno | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
  <br/>
-  </details>
