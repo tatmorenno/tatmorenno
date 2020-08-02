@@ -21,7 +21,6 @@ Atualmente estuda as seguintes tecnologias:
 - [JavaScript](https://www.javascript.com/);
 - [Kotlin](https://kotlinlang.org/);
   </details>
-<br/>
   <a href="https://in.linkedin.com/in/tatmorenno">
     <img alt="Tatiana Emília Moreno | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
@@ -32,4 +31,3 @@ Atualmente estuda as seguintes tecnologias:
     <img alt="Tatiana Emília Moreno | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
     <img align='left' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
- <br/>
