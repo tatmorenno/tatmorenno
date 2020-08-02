@@ -14,7 +14,7 @@
   É ✨ <em>SUPER APAIXONADA</em> ✨ por aprender e ensinar! 👩🏻‍💻
 <br/>
 Desde criança criava a sua realidade na mente. <br/>
-Hoje, ela converte imaginação em linhas de códigos.
+Hoje, ela converte imaginação em linhas de códigos. </>
 
 
 ### 🚀 Atualmente participante dos Bootcamps: 
