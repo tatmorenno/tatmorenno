@@ -10,8 +10,8 @@
 <br/>
   <img src="https://github.com/demartini/demartini/blob/master/code.gif" width="400px">
 <br/>
-  <h3>Tatiana Moreno <img align='left' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  é ✨ <em>SUPER APAIXONADA</em> ✨ por aprender e ensinar.
+  <h3>Tatiana Moreno <img align='left' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
+  É ✨ <em>SUPER APAIXONADA</em> ✨ por aprender e ensinar.
 <br/>
 Desde criança criava a sua realidade na mente.
 Hoje, ela converte sua imaginação também em linhas de códigos.
