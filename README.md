@@ -5,25 +5,24 @@
 
 </h2>
 
-<!--
-**tatmorenno/tatmorenno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
  <details>
     <summary>Preview</summary>
 <br/>
   <img src="https://github.com/demartini/demartini/blob/master/code.gif" width="400px">
 <br/>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  <br/>
+  **Tatiana Moreno** é ✨ _SUPER APAIXONADA_ ✨ por aprender e ensinar.
+<br/>
+Desde criança criava a sua realidade na mente.
+Hoje, ela converte sua imaginação também em linhas de códigos.
+
+Atualmente estuda as seguintes tecnologias:
+- HTML;
+- CSS;
+- JavaScript;
+- Kotlin;
+<br/>
   <a href="https://in.linkedin.com/in/tatmorenno">
     <img alt="Tatiana Emília Moreno | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
