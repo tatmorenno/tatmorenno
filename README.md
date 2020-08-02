@@ -10,7 +10,6 @@
 <br/>
   <img src="https://github.com/demartini/demartini/blob/master/code.gif" width="400px">
 <br/>
-  <br/>
   <h3>Tatiana Moreno</h3> é ✨ <em>SUPER APAIXONADA</em> ✨ por aprender e ensinar.
 <br/>
 Desde criança criava a sua realidade na mente.
@@ -23,7 +22,6 @@ Atualmente estuda as seguintes tecnologias:
 - [Kotlin](https://kotlinlang.org/);
   </details>
 <br/>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   <a href="https://in.linkedin.com/in/tatmorenno">
     <img alt="Tatiana Emília Moreno | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
@@ -33,4 +31,5 @@ Atualmente estuda as seguintes tecnologias:
   <a href="mailto:tatiana.emilia.morenno@gmail.com">
     <img alt="Tatiana Emília Moreno | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  <br/>
