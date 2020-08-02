@@ -21,6 +21,7 @@ Here are some ideas to get you started:
  <details>
     <summary>Preview</summary>
 <br/>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   <img src="https://github.com/demartini/demartini/blob/master/code.gif" width="400px">
 <br/>  
   <a href="https://in.linkedin.com/in/tatmorenno">
@@ -32,6 +33,5 @@ Here are some ideas to get you started:
   <a href="mailto:tatiana.emilia.morenno@gmail.com">
     <img align="left" alt="Tatiana Emília Moreno | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  <br/>
   </details>
