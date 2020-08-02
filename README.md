@@ -1,4 +1,8 @@
-👋 💻 <h2> 𝐇𝐞𝐥𝐥𝐨 &lt;githubers&gt;! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
+<h2>
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  💻 𝐇𝐞𝐥𝐥𝐨 &lt;githubers&gt;!
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</h2>
 
 <!--
 **tatmorenno/tatmorenno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
