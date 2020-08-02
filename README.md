@@ -10,14 +10,14 @@
 <br/>
   <img src="https://github.com/demartini/demartini/blob/master/code.gif" width="400px">
 <br/>
-  <h3>Tatiana Moreno <img align='left' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
+  <h2>Tatiana Moreno <img align='left' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
   É ✨ <em>SUPER APAIXONADA</em> ✨ por aprender e ensinar! 👩🏻‍💻
 <br/>
 Desde criança criava a sua realidade na mente. <br/>
 Hoje, ela converte imaginação em linhas de códigos.
 
 
-## 🚀 Atualmente participante dos Bootcamps: 
+### 🚀 Atualmente participante dos Bootcamps: 
 - [IGTI – Full-Stack](https://www.igti.com.br/custom/bootcamp-desenvolvedor-full-stack/);
 - [Rocketseat – LaunchBase](https://rocketseat.com.br/launchbase);
 - [Digital Innovation One – Front-end ReactJS](https://digitalinnovation.one/bootcamps/desenvolvedor-front-end-reactjs).
