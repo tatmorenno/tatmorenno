@@ -11,19 +11,18 @@
   <img src="https://github.com/demartini/demartini/blob/master/code.gif" width="400px">
 <br/>
   <br/>
-  ####Tatiana Moreno é ✨ <em>SUPER APAIXONADA</em> ✨ por aprender e ensinar.
+  <h3>Tatiana Moreno</h3> é ✨ <em>SUPER APAIXONADA</em> ✨ por aprender e ensinar.
 <br/>
 Desde criança criava a sua realidade na mente.
 Hoje, ela converte sua imaginação também em linhas de códigos.
 
 Atualmente estuda as seguintes tecnologias:
-- HTML;
-- CSS;
-- JavaScript;
-- Kotlin;
+- [HTML](https://www.w3schools.com/html/);
+- [CSS](https://www.w3.org/Style/CSS/Overview.en.html);
+- [JavaScript](https://www.javascript.com/);
+- [Kotlin](https://kotlinlang.org/);
 <br/>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<br/>
   <a href="https://in.linkedin.com/in/tatmorenno">
     <img alt="Tatiana Emília Moreno | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
