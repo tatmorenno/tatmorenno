@@ -10,7 +10,6 @@
 <br/>
   <img src="https://github.com/demartini/demartini/blob/master/code.gif" width="400px">
 <br/>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   <br/>
   ####Tatiana Moreno é ✨ <em>SUPER APAIXONADA</em> ✨ por aprender e ensinar.
 <br/>
@@ -22,6 +21,8 @@ Atualmente estuda as seguintes tecnologias:
 - CSS;
 - JavaScript;
 - Kotlin;
+<br/>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <br/>
   <a href="https://in.linkedin.com/in/tatmorenno">
     <img alt="Tatiana Emília Moreno | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
