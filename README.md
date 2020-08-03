@@ -9,7 +9,7 @@
 <br/>
   <img src="https://github.com/demartini/demartini/blob/master/code.gif" width="400px">
 <br/>
-  <h2>Tatiana Moreno <img align='right' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
+  <h2>Tatiana Moreno <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
   É ✨ <em>SUPER APAIXONADA</em> ✨ por aprender e ensinar! 👩🏻‍💻
 <br/>
 Desde criança criava a sua realidade na mente. <br/>
