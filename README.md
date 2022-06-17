@@ -1,13 +1,9 @@
 <h2>
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  💻 𝐇𝐞𝐥𝐥𝐨 &lt;githubers&gt;!
-     <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="50"'>
+  💻 𝐇𝐞𝐥𝐥𝐨 GitHubers!
 </h2>
 
- <details>
-    <summary>Preview</summary>
 <br/>
-  <img src="https://github.com/demartini/demartini/blob/master/code.gif" width="400px">
+  <img src="https://github.com/demartini/demartini/blob/master/code.gif" width="50px">
 <br/>
   <h2>Tatiana Moreno <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
   É ✨ <em>SUPER APAIXONADA</em> ✨ por aprender e ensinar! 👩🏻‍💻
@@ -17,10 +13,8 @@ Hoje, ela converte imaginação em linhas de códigos.
 
 
 ### 🚀 Atualmente participante dos Bootcamps: 
-- [IGTI – Full-Stack](https://www.igti.com.br/custom/bootcamp-desenvolvedor-full-stack/);
-- [Rocketseat – LaunchBase](https://rocketseat.com.br/launchbase);
-- [Digital Innovation One – Front-end ReactJS](https://digitalinnovation.one/bootcamps/desenvolvedor-front-end-reactjs).
-  </details>
+- [DevStart – Be Academy & PayLivre](https://www.beacademy.com.br/devstartpaylivre/)
+- [Rocketseat – LaunchBase](https://rocketseat.com.br/launchbase) <br><br><br>
   <a href="https://in.linkedin.com/in/tatmorenno">
     <img alt="Tatiana Emília Moreno | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
