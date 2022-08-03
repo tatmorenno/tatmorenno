@@ -3,7 +3,7 @@
 </h2>
 
 <br/>
-  <img src="https://github.com/demartini/demartini/blob/master/code.gif" width="50px">
+  <img src="https://github.com/demartini/demartini/blob/master/code.gif" width="500px">
 <br/>
   <h2>Tatiana Moreno <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
   É ✨ <em>SUPER APAIXONADA</em> ✨ por aprender e ensinar! 👩🏻‍💻
